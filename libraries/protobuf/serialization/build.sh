@@ -3,7 +3,7 @@
 set -e
 set -x
 
-pip install -U protobuf
+pip3 install -U protobuf
 
 rm -rf build
 mkdir build
