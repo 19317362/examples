@@ -17,4 +17,4 @@ bin/sensor
 touch __init__.py
 
 popd
-python main.py
+python3 main.py

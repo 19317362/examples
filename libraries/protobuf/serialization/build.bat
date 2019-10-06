@@ -14,4 +14,4 @@ bin\sensor.exe
 ECHO. 2>__init__.py
 
 POPD
-python main.py
+python3 main.py
